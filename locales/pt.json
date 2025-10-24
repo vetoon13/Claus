@@ -1,0 +1,68 @@
+
+{
+  "login": {
+    "title": "Login Magic Writer",
+    "username": "Nome de usuário",
+    "password": "Senha",
+    "usernamePlaceholder": "Admin",
+    "passwordPlaceholder": "••••",
+    "button": "Entrar",
+    "error": "Nome de usuário ou senha inválidos."
+  },
+  "header": {
+    "title": "Magic Writer",
+    "writer": "Editor",
+    "flowBuilder": "Construtor de Fluxo",
+    "whatsAppButton": "Conectar com WhatsApp"
+  },
+  "initialPrompt": {
+    "title": "Magic Writer",
+    "subtitle": "Comece com uma instrução, uma ideia ou até mesmo um arquivo.",
+    "placeholder": "Diga-me sobre o que você quer escrever...",
+    "attachFiles": "Anexar Arquivos",
+    "generate": "Gerar",
+    "attachments": "Anexos:"
+  },
+  "toolbar": {
+    "placeholder": "Diga à IA o que fazer com a seleção..."
+  },
+  "flowBuilder": {
+    "title": "Construtor de Fluxo de Conversa",
+    "subtitle": "Crie o diálogo da sua IA conectando nós de mensagem.",
+    "nodePlaceholder": "Digite a mensagem para esta etapa...",
+    "optionPlaceholder": "Digite o texto da opção...",
+    "deleteStep": "Excluir etapa",
+    "addNode": "Adicionar Nó",
+    "addOption": "Adicionar Opção",
+    "saveFlow": "Salvar Fluxo",
+    "loadFlow": "Carregar Fluxo",
+    "addStep": "Adicionar Etapa",
+    "feedback": {
+      "saveSuccess": "Fluxo salvo com sucesso!",
+      "saveError": "Erro: Não foi possível salvar o fluxo.",
+      "loadSuccess": "Fluxo carregado com sucesso!",
+      "loadError": "Erro: Não foi possível carregar o fluxo.",
+      "loadInvalid": "Erro: Dados de fluxo inválidos encontrados.",
+      "loadNotFound": "Nenhum fluxo salvo encontrado no armazenamento local."
+    }
+  },
+  "whatsAppModal": {
+    "title": "Conectar com WhatsApp",
+    "subtitle": "Escaneie este código para iniciar uma conversa com a primeira mensagem do seu fluxo.",
+    "step1": "1. Abra o aplicativo da Câmera no seu celular.",
+    "step2": "2. Aponte seu celular para esta tela para capturar o código.",
+    "step3": "3. Toque na notificação para abrir o link no WhatsApp."
+  },
+  "chatbot": {
+    "title": "Assistente de IA",
+    "openChat": "Abrir chat",
+    "closeChat": "Fechar chat",
+    "placeholder": "Pergunte qualquer coisa...",
+    "sendMessage": "Enviar mensagem",
+    "greeting": "Olá! Como posso ajudar hoje?"
+  },
+  "gemini": {
+    "generateError": "<p>Desculpe, não consegui gerar o conteúdo. Por favor, tente novamente.</p>",
+    "chatError": "Desculpe, encontrei um erro. Por favor, tente novamente."
+  }
+}

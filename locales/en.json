@@ -1,0 +1,68 @@
+
+{
+  "login": {
+    "title": "Magic Writer Login",
+    "username": "Username",
+    "password": "Password",
+    "usernamePlaceholder": "Admin",
+    "passwordPlaceholder": "••••",
+    "button": "Login",
+    "error": "Invalid username or password."
+  },
+  "header": {
+    "title": "Magic Writer",
+    "writer": "Writer",
+    "flowBuilder": "Flow Builder",
+    "whatsAppButton": "Link with WhatsApp"
+  },
+  "initialPrompt": {
+    "title": "Magic Writer",
+    "subtitle": "Start with a prompt, an idea, or even a file.",
+    "placeholder": "Tell me what you want to write about...",
+    "attachFiles": "Attach Files",
+    "generate": "Generate",
+    "attachments": "Attachments:"
+  },
+  "toolbar": {
+    "placeholder": "Tell AI what to do with the selection..."
+  },
+  "flowBuilder": {
+    "title": "Conversation Flow Builder",
+    "subtitle": "Design your AI's dialogue by connecting message nodes.",
+    "nodePlaceholder": "Enter message for this step...",
+    "optionPlaceholder": "Enter option text...",
+    "deleteStep": "Delete step",
+    "addNode": "Add Node",
+    "addOption": "Add Option",
+    "saveFlow": "Save Flow",
+    "loadFlow": "Load Flow",
+    "addStep": "Add Step",
+    "feedback": {
+      "saveSuccess": "Flow saved successfully!",
+      "saveError": "Error: Could not save flow.",
+      "loadSuccess": "Flow loaded successfully!",
+      "loadError": "Error: Could not load flow.",
+      "loadInvalid": "Error: Invalid flow data found.",
+      "loadNotFound": "No saved flow found in local storage."
+    }
+  },
+  "whatsAppModal": {
+    "title": "Link with WhatsApp",
+    "subtitle": "Scan this code to start a conversation with the first message of your flow.",
+    "step1": "1. Open the Camera app on your phone.",
+    "step2": "2. Point your phone at this screen to capture the code.",
+    "step3": "3. Tap the notification to open the link in WhatsApp."
+  },
+  "chatbot": {
+    "title": "AI Assistant",
+    "openChat": "Open chat",
+    "closeChat": "Close chat",
+    "placeholder": "Ask anything...",
+    "sendMessage": "Send message",
+    "greeting": "Hello! How can I help you today?"
+  },
+  "gemini": {
+    "generateError": "<p>Sorry, I couldn't generate the content. Please try again.</p>",
+    "chatError": "Sorry, I encountered an error. Please try again."
+  }
+}
